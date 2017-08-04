@@ -1,6 +1,6 @@
 # Intro to Rust @ KCDC 2017
 
-![](https://www.rust-lang.org/logos/rust-logo-512x512-blk.png)
+![](https://www.rust-lang.org/logos/rust-logo-256x256-blk.png)
 
 Talk by Jared M. Smith ([@jaredthecoder](https://twitter.com/jaredthecoder)).
 
