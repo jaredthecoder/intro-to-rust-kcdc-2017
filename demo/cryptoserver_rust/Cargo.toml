@@ -1,0 +1,9 @@
+[package]
+name = "cryptoserver"
+version = "0.1.0"
+authors = ["jaredthecoder <jared@jaredthecoder.com>"]
+
+[dependencies]
+rocket = "0.3.0"
+rocket_codegen = "0.3.0"
+rand = "0.3"
