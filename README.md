@@ -1,5 +1,4 @@
 # Intro to Rust @ KCDC 2017
----
 
 Talk by Jared M. Smith ([@jaredthecoder](https://twitter.com/jaredthecoder)).
 
